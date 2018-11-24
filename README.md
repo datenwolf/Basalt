@@ -1,6 +1,7 @@
 # Basalt
 Vulkan API utility toolkit (Basalt comes from Volcanoes)
 
-**So far the Vulkan specification is neither finalized nor publicized.**
+**This is not a work in progress.**
 
-As soon as there's something to work with, stuff will start to appear here.
+The current stage of the project is drafting the architecture (interfaces,
+type dependencies, implcit and explicit semantics).
